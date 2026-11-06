@@ -1,0 +1,11 @@
+name "cost-per-use"
+description "Cost-per-use and cost-per-decade arithmetic for buy-it-for-life buying decisions: replacement cycles, warranty claims, break-even years"
+authors "James Verlander"
+homepage "https://www.durablepicks.com"
+license "MIT"
+targetType "library"
+
+configuration "demo" {
+    targetType "executable"
+    mainSourceFile "demo/main.d"
+}

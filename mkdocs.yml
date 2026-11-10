@@ -1,0 +1,6 @@
+site_name: cost-per-use
+site_description: Cost-per-use and cost-per-decade arithmetic for buy-it-for-life buying decisions (D, stdlib only).
+repo_url: https://github.com/scrapertweeter3-prog/cost-per-use-d
+repo_name: scrapertweeter3-prog/cost-per-use-d
+nav:
+  - Home: index.md
